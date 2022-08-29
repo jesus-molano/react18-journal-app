@@ -8,9 +8,9 @@ It has a registration by email and by our google account.
 
 ## Images
 ### Login
-![Login Image](https://raw.githubusercontent.com/jesus-molano/react18-heroes/main/public/readme-img.webp "Login image")
+![Login Image](https://github.com/jesus-molano/react18-journal-app/blob/abe00f4d0a8d2ff93e887768b537ce5e1595da27/public/login.webp "Login image")
 ### Journal
-![Journal Image](https://raw.githubusercontent.com/jesus-molano/react18-heroes/main/public/readme-img.webp "Journal image")
+![Journal Image](https://github.com/jesus-molano/react18-journal-app/blob/abe00f4d0a8d2ff93e887768b537ce5e1595da27/public/journal.webp "Journal image")
 
 
 ## Technologies
