@@ -1,19 +1,19 @@
 # Journal App
 With React 18 and Vite 3
 
-## Description
+## 📃Description
 
 An application to write down your daily notes with a title, body and and images in masonry style.
 It has a registration by email and by our google account.
 
-## Images
+## 🖼️Images
 ### Login
 ![Login Image](https://github.com/jesus-molano/react18-journal-app/blob/abe00f4d0a8d2ff93e887768b537ce5e1595da27/public/login.webp "Login image")
 ### Journal
 ![Journal Image](https://github.com/jesus-molano/react18-journal-app/blob/abe00f4d0a8d2ff93e887768b537ce5e1595da27/public/journal.webp "Journal image")
 
 
-## Technologies
+## 🖥️Technologies
 
 * [React 18](https://reactjs.org)
 * [Vite 3](https://vitejs.dev)
@@ -25,6 +25,6 @@ It has a registration by email and by our google account.
 * [Firebase](https://firebase.google.com/)
 * [Vercel](https://vercel.com/)
 
-## Creator
+## 🧔🏻Creator
 * LinkdIn - [jesus-molano-perdomo](https://www.linkedin.com/in/jesus-molano-perdomo/)
 * Linktr.ee - [jesus_molano](https://linktr.ee/jesus_molano)
